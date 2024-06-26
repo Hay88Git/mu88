@@ -67,7 +67,7 @@ document.getElementsByClassName('footer')[0].innerHTML = `
                     <h1 class="border-b-[3px] text-[#fff134] py-2 font-serif" >VỀ CHÚNG TÔI</h1>
                     <div class="mt-6 ">
                         <p class="leading-relaxed"><span class="text-[#fff134] font-medium">Mu88 </span>cung cấp sản phẩm cá cược trực tuyến hàng đầu như casino, thể thao, xổ số lô đề, bắn cá, tài xỉu, xóc đĩa, đá gà. Hàng ngày với hàng ngàn khuyến mãi, ưu đãi cực hấp dẫn. Chúng tôi có trụ sở tại Manila, Phillippines cấp phép và quản lý bởi PAGCOR bởi chính phủ Phillippines.</p>
-                        <p class="mt-10"><span class=" font-medium">Mu88.Tips</span>là kênh thông tin hỗ trợ, đại lý chính thức của nhà cái Mu88 tại thị trường Việt Nam. </p>
+                        <p class="mt-10"><span class=" font-medium">Mu88.golf</span>là kênh thông tin hỗ trợ, đại lý chính thức của nhà cái Mu88 tại thị trường Việt Nam. </p>
                     </div>
                     <img src="./images/_dmca_premi_badge_1.png" class="mt-4">
                 </div>
